@@ -1,0 +1,11 @@
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\bin\Debug\netcoreapp2.0\WebDashboard.deps.json
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\bin\Debug\netcoreapp2.0\WebDashboard.runtimeconfig.json
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\bin\Debug\netcoreapp2.0\WebDashboard.runtimeconfig.dev.json
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\bin\Debug\netcoreapp2.0\WebDashboard.dll
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\bin\Debug\netcoreapp2.0\WebDashboard.pdb
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\obj\Debug\netcoreapp2.0\WebDashboard.csprojAssemblyReference.cache
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\obj\Debug\netcoreapp2.0\WebDashboard.csproj.CoreCompileInputs.cache
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\obj\Debug\netcoreapp2.0\WebDashboard.AssemblyInfoInputs.cache
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\obj\Debug\netcoreapp2.0\WebDashboard.AssemblyInfo.cs
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\obj\Debug\netcoreapp2.0\WebDashboard.dll
+C:\Projects\C#\ASP NET CORE\WebDashboard\WebDashboard\obj\Debug\netcoreapp2.0\WebDashboard.pdb
