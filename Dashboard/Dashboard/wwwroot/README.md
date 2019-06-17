@@ -1,13 +1,5 @@
-# CoolAdmin Bootstrap 4.1 Admin Dashboard Template
-**CoolAdmin** is a responsive Bootstrap 4.1 admin template. It provides you with a collection of ready to use code snippets and utilities, custom pages, loads of charts, 4 different dashboard variations, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/cooladmin/index.html
-
-# Preview
-
-### Screenshot
-
-![CoolAdmin admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/Dashboard-v2.jpg)
-
-### Demo Site: [[Here]](https://colorlib.com/polygon/cooladmin/index.html)
+# MyDashBoard Bootstrap 4.1 Admin Dashboard Template
+**MyDashBoard** is a responsive Bootstrap 4.1 admin template.
 
 ### TOC
 - [Built With](#built-with)
@@ -41,8 +33,6 @@
 ### Changelog
 #### V 1.0.0
 Initial Release
-### Authors
-[Colorlib](https://colorlib.com)
 
 ### More info
 - [Bootstrap dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
@@ -53,4 +43,7 @@ Initial Release
 
 ### License
 
-CoolAdmin is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
+O MyDashBoard é um produto customizado do template CoolAdmin que é licenciado sob a licença MIT (MIT).
+
+### Autor original do template
+[Colorlib](https://colorlib.com) 
